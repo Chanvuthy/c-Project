@@ -1,0 +1,12 @@
+D:\Setec Institute\Year 2 Semester 2\C#\Proj\Hw1\Proj1\Proj1\bin\Debug\Proj1.exe.config
+D:\Setec Institute\Year 2 Semester 2\C#\Proj\Hw1\Proj1\Proj1\bin\Debug\Proj1.exe
+D:\Setec Institute\Year 2 Semester 2\C#\Proj\Hw1\Proj1\Proj1\bin\Debug\Proj1.pdb
+D:\Setec Institute\Year 2 Semester 2\C#\Proj\Hw1\Proj1\Proj1\obj\Debug\Proj1.csprojAssemblyReference.cache
+D:\Setec Institute\Year 2 Semester 2\C#\Proj\Hw1\Proj1\Proj1\obj\Debug\Proj1.exe
+D:\Setec Institute\Year 2 Semester 2\C#\Proj\Hw1\Proj1\Proj1\obj\Debug\Proj1.pdb
+D:\Setec Institute\Year 2 Semester 2\C#\Proj\Hw1\C# Homework1\Proj1\bin\Debug\Proj1.exe.config
+D:\Setec Institute\Year 2 Semester 2\C#\Proj\Hw1\C# Homework1\Proj1\bin\Debug\Proj1.exe
+D:\Setec Institute\Year 2 Semester 2\C#\Proj\Hw1\C# Homework1\Proj1\bin\Debug\Proj1.pdb
+D:\Setec Institute\Year 2 Semester 2\C#\Proj\Hw1\C# Homework1\Proj1\obj\Debug\Proj1.csprojAssemblyReference.cache
+D:\Setec Institute\Year 2 Semester 2\C#\Proj\Hw1\C# Homework1\Proj1\obj\Debug\Proj1.exe
+D:\Setec Institute\Year 2 Semester 2\C#\Proj\Hw1\C# Homework1\Proj1\obj\Debug\Proj1.pdb
